@@ -6,7 +6,7 @@
 "BDM-SNN.py"，"BDM-SNN-hh.py"：pygame
 
  "BDM-SNN-UAV.py"：robomaster
-
+ 
 
 ## Run
  "BDM-SNN.py"  includes the multi-brain regions coordinated decision-making spiking neural network with LIF neurons.
